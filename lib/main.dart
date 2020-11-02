@@ -74,7 +74,7 @@ class _HomeState extends State<Home> {
                       fontWeight: FontWeight.bold
                   ),
                 ),
-                color: Colors.green,
+                color: Colors.green, 
                 onPressed: _gerarFrase,
               )
             ],
